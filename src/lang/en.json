@@ -1,0 +1,28 @@
+{
+  "suspenseloading.text1": "Please wait while we load the live preview examples",
+  "suspenseloading.text2": "This live preview instance can be slower than a real production build!",
+  "signin.user": "User:",
+  "signin.password": "Password:",
+  "signin.require": "Require field",
+  "signin.payment.title": "Payouts made easy!",
+  "signin.btn.login": "Login",
+  "otp.code": "Otp:",
+  "header.menu.settings"  :"Settings",
+  "header.menu.logout": "Log Out",  
+  "admin.transaction.table.header.company": "COMPANY",
+  "admin.transaction.table.header.beneficiary": "BENEFICIARY",
+  "admin.transaction.table.header.method": "METHOD",
+  "admin.transaction.table.header.number": "NUMBER",
+  "admin.transaction.table.header.amount": "AMOUNT",
+  "admin.transaction.table.header.fees": "FEES",
+  "admin.transaction.table.header.status": "STATUS",
+  "admin.transaction.drawer.button.tooltip.copy": "Copy to Clipboard",
+  "admin.transaction.drawer.button.tooltip.close": "Close",
+  "admin.transaction.drawer.title": "TRANSACTION DETAILS",
+  "admin.transaction.title": "TRANSACTION OVERVIEW",
+  "admin.transaction.search.keyword": "Search",
+  "admin.transaction.search.filter.from": "FROM:",
+  "admin.transaction.search.filter.date.placeholder": "dd.mm.yyy",
+  "admin.transaction.search.filter.to": "TO:"
+  
+}
